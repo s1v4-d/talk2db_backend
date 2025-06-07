@@ -1,1 +1,1 @@
-# talk2sql_demo
+# talk2db
