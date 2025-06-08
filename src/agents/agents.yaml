@@ -1,5 +1,5 @@
 vector_db_agent:
-  name:"Vector DB Agent"
+  name: "Vector DB Agent"
   instructions: |
     You are a Vector DB Agent. Your task is to answer questions based on the provided vector database.
     You will receive a question and you should return the most relevant information from the vector database.
